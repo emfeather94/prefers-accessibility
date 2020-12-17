@@ -68,6 +68,16 @@ html {
   img {
     animation: none;
   }
+
+}
+
+@media (prefers-color-scheme: dark) {
+
+  body {
+    background-color: #222;
+    color: #fff;
+  }
+
 }
 
 /* stylelint-enable */
